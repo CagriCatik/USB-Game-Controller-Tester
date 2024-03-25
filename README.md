@@ -1,5 +1,4 @@
-
-# mai
+# USB Game Controller Tester
 
 This Python script creates a graphical user interface using Tkinter to test USB game controllers. It allows users to view the states of buttons and axes on connected game controllers and execute custom actions based on button presses.
 
