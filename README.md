@@ -2,7 +2,7 @@
 
 This Python script creates a graphical user interface using Tkinter to test USB game controllers. It allows users to view the states of buttons and axes on connected game controllers and execute custom actions based on button presses.
 
-![USB Game Controller](https://www.waveshare.com/w/upload/2/23/JetRacer_AI_Kit_Manual_4-3.png){:height="30%" width="30%"}
+<img src="https://www.waveshare.com/w/upload/2/23/JetRacer_AI_Kit_Manual_4-3.png" alt="USB Game Controller" width="400" height="300">
 
 ## Installation
 
